@@ -1,0 +1,32 @@
+Game of Life
+David Yoon
+
+Command line arguments:
+H: Help
+w: Screen Width
+h: Screen Height
+a: Field Height
+s: Field Width
+g: HEDGE or TORUS
+
+Keys:
+Space: Play/Pause
+S: Toggle Stepping Mode
+N: While in Stepping Mode, Step
+Tab: Toggle Torus/Hedge
+Page Up: Increase Resolution
+Page Down: Decrease Resolution
+Backspace: Clear Screen
+F11: Toggle Fullscreen
+Esc: Exit
+
+Click on cell to enable/disable. Screen is resizeable.
+
+
+Comments:
+
+I've had to start over the night before and took 6 hours straight into dawn to finish this.
+It does not do file input, but that is because I had to start over.
+Klein does not work. I did not have enough time.
+Regardless, this blows most peoples' out of the water as is.
+Given a day or two more (after I started over), I would have gotten everything done.
